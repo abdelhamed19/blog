@@ -93,6 +93,10 @@ The API can be accessed via `http://localhost:8000/api`. Example endpoints inclu
 
 To create a new post via the API, send a `POST` request to `http://localhost:8000/api/posts` with the following payload:
 
+### EndPoints in Postman
+
+https://documenter.getpostman.com/view/31513137/2sAXjGcDg3
+
 ```json
 {
     "title": "My New Post",
