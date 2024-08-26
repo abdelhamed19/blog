@@ -9,7 +9,6 @@ This is a simple blog application built with Laravel. The project is designed to
 - Commenting on posts
 - Email notifications for post authors when new comments are made
 - RESTful API for posts, comments, and users
-- Blade views for web-based interaction
 
 ## Project Structure
 
@@ -76,10 +75,6 @@ The project follows a clean architecture by using the **Repository Pattern**. Th
 ## Usage
 
 The project can be accessed via both web and API routes.
-
-### Web Interface (Blade Views)
-
-Access the web interface by navigating to the base URL (e.g., `http://localhost:8000`). Users can create posts, view posts, and leave comments via Blade views.
 
 ### API Endpoints
 
