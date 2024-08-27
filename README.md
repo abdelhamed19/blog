@@ -29,7 +29,7 @@ The project follows a clean architecture by using the **Repository Pattern**. Th
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/blog.git
+    git clone https://github.com/abdelhamed19/blog.git
     cd blog
     ```
 
